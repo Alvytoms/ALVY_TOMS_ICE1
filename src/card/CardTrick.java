@@ -56,7 +56,7 @@ public class CardTrick {
             system.out.printIn("card is not in magic hand");
             
         }
-        // add one luckcard hard code 2,clubs
+        // add one luckcard hard code 
         Card luckycard = new Card();
         luckycard.SetValue(2);
         luckycard.SetSuit("clubs");
